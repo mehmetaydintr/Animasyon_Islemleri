@@ -3,7 +3,7 @@
 ## İçerik
 
 1. [Kullanılan Teknolojiler](https://github.com/mehmetaydintr/Animasyon_Islemleri/blob/main/README.md#i%CC%87%C3%A7erik)
-2. [Proje Tanımı](https://github.com/mehmetaydintr/Animasyon_Islemleri/blob/main/README.md#i%CC%87%C3%A7erik)
+2. [Proje Tanımı](https://github.com/mehmetaydintr/Animasyon_Islemleri/blob/main/README.md#proje-tan%C4%B1m%C4%B1)
 
 ## Kullanılan Teknolojiler
 
