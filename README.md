@@ -32,6 +32,7 @@ Animasyonlar, uygulamaları görsel olarak daha şık ve hoş bir görünüme ka
 
 ![1](https://user-images.githubusercontent.com/37263322/117143339-6467a080-adb9-11eb-9e40-494a8151af28.PNG)
 
+
 3. Animasyonlar için xml kodları yazalım.
   
 ### **Animasyon Tag**larını tanıyalım.
