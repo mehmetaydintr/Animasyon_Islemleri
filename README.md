@@ -2,8 +2,8 @@
 
 ## İçerik
 
-1. Kullanılan Teknojiler
-2. Proje Tanımı
+1. [Kullanılan Teknolojiler](https://github.com/mehmetaydintr/Animasyon_Islemleri/blob/main/README.md#i%CC%87%C3%A7erik)
+2. [Proje Tanımı](https://github.com/mehmetaydintr/Animasyon_Islemleri/blob/main/README.md#i%CC%87%C3%A7erik)
 
 ## Kullanılan Teknolojiler
 
